@@ -87,7 +87,7 @@ header {
   color: white;
   display: inline-block;
   opacity: 0.8;
-  /* Ubah nilai border-radius ke 4px */
+  text-decoration: none;
   border-radius: 4px;
 }
 
