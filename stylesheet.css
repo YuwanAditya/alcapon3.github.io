@@ -197,9 +197,7 @@ a, ul {
   padding-bottom: 15px;
   padding-left: 40px;
   padding-right: 40px;
-  /* Ubah property cursor ke pointer */
   cursor: pointer;
-  /* Ubah property box-shadow */
   box-shadow: 0px 7px #1a7940;
   
 }
@@ -247,7 +245,6 @@ footer {
 .footer-text {
 	text-align: center;
 	padding-top: 120px;
-	line-height: 20px;
 	text-decoration: blink;
 }
 
