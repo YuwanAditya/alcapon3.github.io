@@ -130,7 +130,6 @@ a, ul {
   margin-right: 10px;
 }
 
-/* Gantikan margin-right milik fa ke 5px */
 .fa {
   margin-right: 5px;
 }
@@ -138,8 +137,6 @@ a, ul {
 .lesson-wrapper {
   height: 500px;
   padding-bottom: 80px;
- /* background-color: #f7f7f7;*/
-  /* Ubah property text-align ke center */
   text-align: center;
 }
 
